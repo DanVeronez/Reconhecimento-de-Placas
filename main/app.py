@@ -11,7 +11,7 @@ verde               = (0,255,0)
 espessura           = 2
 quadrilatero        = 4
 
-img = cv2.imread("carro4.jpg")
+img = cv2.imread("img\placa17.jpg")
 show_image('img', img)
 
 # Deixa a imagem cinza
